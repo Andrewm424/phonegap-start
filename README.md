@@ -4,7 +4,7 @@
 
 ## Getting Help with PhoneGap
 
-If you are looking for help with PhoneGap please visit the
+
 [PhoneGap Forums](https://forums.adobe.com/community/phonegap).
 
 ## Usage
